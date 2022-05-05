@@ -2,7 +2,7 @@
 - 👀 I’m interested in develop software
 - 🌱 I’m currently learning java,data structure,c and javascript
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me jackinjaxx2002@gmail.com
+- 📫 How to reach me jackinjaxx2002@gmail.com, https://twitter.com/jackinjaxx01
 
 <!---
 jackinjaxx/jackinjaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
